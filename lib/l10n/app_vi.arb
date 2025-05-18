@@ -1,0 +1,36 @@
+{
+  "@appName": {
+    "description": "Tên của ứng dụng"
+  },
+  "appName": "GreenHouse",
+
+  "@title_intro1": {
+    "description": "Tiêu đề của phần giới thiệu 1"
+  },
+  "title_intro1": "Phân tích thông minh",
+
+  "@title_intro2": {
+    "description": "Tiêu đề của phần giới thiệu 2"
+  },
+  "title_intro2": "Xây dựng \nmôi trường tối ưu",
+
+  "@title_intro3": {
+    "description": "Tiêu đề của phần giới thiệu 3"
+  },
+  "title_intro3": "Quản lý thử nghiệm",
+
+  "@description1": {
+    "description": "Mô tả cho phần giới thiệu 1"
+  },
+  "description1": "Tự động tổng hợp và phân tích dữ liệu từ thí nghiệm, giúp bạn đưa ra quyết định chính xác hơn trong canh tác",
+
+  "@description2": {
+    "description": "Mô tả cho phần giới thiệu 2"
+  },
+  "description2": "Giám sát và phân tích dữ liệu để tạo điều kiện phát triển tốt nhất cho cây trồng",
+
+  "@description3": {
+    "description": "Mô tả cho phần giới thiệu 3"
+  },
+  "description3": "Ghi chép, theo dõi và phân tích các thí nghiệm để tối ưu hóa quy trình canh tác"
+}
