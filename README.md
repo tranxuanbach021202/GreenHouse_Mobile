@@ -4,7 +4,16 @@
 
 ---
 
-## 📸 Chức năng chính
+## 🚀 Chức năng chính
+
+- 🧪 Quản lý dự án thí nghiệm (tên, mô tả, ảnh bìa, người tham gia)
+- 📊 Tạo bố trí thí nghiệm RCBD/CRD
+- 📥 Nhập dữ liệu đo theo từng đợt
+- 📷 Quét mã QR để nhập nhanh
+- 👥 Phân quyền: Owner / Member / Guest
+- 📤 Xuất dữ liệu ra Excel
+  
+## 📸 Demo một số màn chính
 
 <details>
   <summary><strong>Đăng nhập, Đăng ký</strong></summary>
