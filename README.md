@@ -31,7 +31,7 @@
 </div>
 </details>
 <details>
-  <summary><strong>Tạo dự án/strong></summary>
+  <summary><strong>Tạo dự án</summary>
 
 <div align="center">
   <a href="https://github.com/user-attachments/assets/d4936f13-ac70-4504-82f0-d38714964776" target="_blank">
