@@ -123,7 +123,7 @@
 
   <div align="center">
   <a href="https://github.com/user-attachments/assets/c16cee51-1e2f-49a7-ad1e-5778b9511ce0" target="_blank">
-    <img src="https://github.com/user-attachments/assets/c16cee51-1e2f-49a7-ad1e-5778b9511ce0" alt="Đăng nhập" width="500" style="margin-right: 16px;"/>
+    <img src="https://github.com/user-attachments/assets/c16cee51-1e2f-49a7-ad1e-5778b9511ce0" alt="Đăng nhập" width="150" style="margin-right: 16px;"/>
   </a>
 </div>
 </details>
