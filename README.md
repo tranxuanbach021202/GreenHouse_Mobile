@@ -6,13 +6,21 @@
 
 ## 🚀 Chức năng chính
 
-- 🧪 Quản lý dự án thí nghiệm (tên, mô tả, ảnh bìa, người tham gia)
+- 🧪 Quản lý dự án thí nghiệm (tên, mô tả, ảnh bìa, người tham gia, các chỉ tiêu)
 - 📊 Tạo bố trí thí nghiệm RCBD/CRD
+- 📝 Chỉnh sửa thí nghiệm
 - 📥 Nhập dữ liệu đo theo từng đợt
-- 📷 Quét mã QR để nhập nhanh
+- ✏️ Chỉnh sửa dữ liệu đo
+- 📝 Tạo & quản lý đợt nhập
+- 📷 Xuất và Quét mã QR để nhập nhanh
 - 👥 Phân quyền: Owner / Member / Guest
 - 📤 Xuất dữ liệu ra Excel
-  
+- 🧑‍💼 Quản lý hồ sơ cá nhân
+
+## 📽️ Thuyết trình
+
+👉 [Bản thuyết trình](https://www.canva.com/design/DAGnmfCuBQ4/qPP73gQ-YcijgN2JLKLBZA/edit?utm_content=DAGnmfCuBQ4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ## 📸 Demo một số màn chính
 
 <details>
@@ -29,6 +37,22 @@
     <img src="https://github.com/user-attachments/assets/0e0e5758-9a76-43d8-9f54-3d8bb4ad1138" alt="Đăng nhập" width="150" style="margin-right: 16px;"/>
   </a>
 </div>
+</details>
+<details>
+  <summary><strong>Quên mật khẩu</strong></summary>
+
+<div align="center">
+  <a href="https://github.com/user-attachments/assets/912add31-3434-45c7-bb57-96ff5ff58296" target="_blank">
+    <img src="https://github.com/user-attachments/assets/912add31-3434-45c7-bb57-96ff5ff58296" alt="Đăng nhập" width="150" style="margin-right: 16px;"/>
+  </a>
+  <a href="https://github.com/user-attachments/assets/c32b1bdf-ed70-4175-a7f7-ad2c11818463" target="_blank">
+    <img src="https://github.com/user-attachments/assets/c32b1bdf-ed70-4175-a7f7-ad2c11818463" alt="Đăng ký" width="150" style="margin-right: 16px;"/>
+  </a>
+  <a href="https://github.com/user-attachments/assets/2c38af90-9008-4bc2-bf4c-f7159459b502" target="_blank">
+    <img src="https://github.com/user-attachments/assets/2c38af90-9008-4bc2-bf4c-f7159459b502" alt="Đăng nhập" width="150" style="margin-right: 16px;"/>
+  </a>
+</div>
+  
 </details>
 <details>
   <summary><strong>Tạo dự án</summary>
@@ -97,4 +121,9 @@
 <details>
   <summary><strong>Xuất Data ra Excel</strong></summary>
 
+  <div align="center">
+  <a href="https://github.com/user-attachments/assets/c16cee51-1e2f-49a7-ad1e-5778b9511ce0" target="_blank">
+    <img src="https://github.com/user-attachments/assets/c16cee51-1e2f-49a7-ad1e-5778b9511ce0" alt="Đăng nhập" width="500" style="margin-right: 16px;"/>
+  </a>
+</div>
 </details>
