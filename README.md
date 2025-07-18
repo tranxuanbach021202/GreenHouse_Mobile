@@ -21,6 +21,8 @@
 
 👉 [Bản thuyết trình](https://www.canva.com/design/DAGnmfCuBQ4/qPP73gQ-YcijgN2JLKLBZA/edit?utm_content=DAGnmfCuBQ4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+👉 [Bài viết](https://drive.google.com/file/d/1GTaAMGUJBdOl99tYEiNPhNGWvDPAUdsH/view?usp=sharing)
+
 ## 📸 Demo một số màn chính
 
 <details>
